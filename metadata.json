@@ -1,0 +1,6 @@
+{
+  "name": "OmniMarket AI - Digital Marketing Assistant",
+  "description": "Smart AI assistant for digital marketers to generate high-converting Facebook and Instagram captions, viral content calendars, comprehensive marketing strategies, and intelligent customer message replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
